@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205761017030",
+    "project_id": "photogallery-ee1f7",
+    "storage_bucket": "photogallery-ee1f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205761017030:android:4fd1693cd289accee753c7",
+        "android_client_info": {
+          "package_name": "com.timbal.photo_gallery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205761017030-n77ge0fu3n6pfbps0md9kqi8runghscp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2CBJ8wNqsgCQguuG6gvTGA282UYE6wuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205761017030-n77ge0fu3n6pfbps0md9kqi8runghscp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
